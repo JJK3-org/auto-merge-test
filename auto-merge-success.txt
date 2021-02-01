@@ -1,0 +1,1 @@
+This should successfully auto-merge with branch protection enabled for reviewers.
