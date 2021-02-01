@@ -1,0 +1,1 @@
+This should fail to auto-merge since it does not have CI set up.
